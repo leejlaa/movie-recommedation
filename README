@@ -1,0 +1,46 @@
+# Movie Recommendation System
+
+This project is a Movie Recommendation System designed to suggest movies based on user preferences and ratings.
+
+## Features
+
+- Personalized movie recommendations
+- User rating system
+- Search and filter movies by genre, year, and more
+- Scalable and modular codebase
+
+## Installation
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/leejlaa/movie-recommendation.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd movie-recommendation
+    ```
+3. (Optional) Create and activate a virtual environment:
+    ```
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+4. Install dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+1. Run the application:
+    ```
+    python main.py
+    ```
+2. Follow the on-screen instructions to get movie recommendations.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
